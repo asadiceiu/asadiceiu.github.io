@@ -5,4 +5,6 @@
 layout: single
 author_profile: true
 ---
-Hello from Asad
+Hi, I am Asad! I am a post-doctoral research fellow at the Dept. of Data Science and Artificial Intelligence under the Faculty of Information Technology in Monash University. My current research focus is on building AI technologies for better monitoring Australian native bees. 
+
+I completed my 
